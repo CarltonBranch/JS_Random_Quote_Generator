@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    margin: 0px auto;
+    display: block;
+}
+
+#main-btn {
+    margin: 0px auto;
+    padding: 20px;
+    display: block;
+    margin: 50px auto;
+    border-radius: 12px;
+    color: white;
+    background-color: palevioletred;
+    border: none;
+    text-transform: uppercase;
+}
+
+p {
+    font-weight: bold;
+    color: gray;
+    font-style: italic;
+    font-size: 50px;
+    display: block;
+    text-align: center;
+    margin: 0px auto;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
